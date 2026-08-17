@@ -1,8 +1,10 @@
 <img src="docs/images/logo.svg" alt="drawing" width="250px"/>
 
-[![CircleCI](https://circleci.com/gh/FINRAOS/model-validation-toolkit/tree/main.svg?style=svg)](https://circleci.com/gh/FINRAOS/Gatekeeper/tree/main)[![Join the chat at https://gitter.im/FINRAOS/model-validation-toolkit](https://badges.gitter.im/FINRAOS/model-validation-toolkit.svg)](https://gitter.im/FINRAOS/model-validation-toolkit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![PyPI version](https://img.shields.io/pypi/v/mvtk)](https://pypi.org/project/mvtk/)
+[![Build and deploy docs](https://github.com/aeftimia/model-validation-toolkit/actions/workflows/docs.yml/badge.svg)](https://github.com/aeftimia/model-validation-toolkit/actions/workflows/docs.yml)[![PyPI version](https://img.shields.io/pypi/v/mvtk)](https://pypi.org/project/mvtk/)
 
 # Model Validation Tookit
+
+> This is [aeftimia](https://github.com/aeftimia)'s fork of FINRA's [Model Validation Toolkit](https://github.com/FINRAOS/model-validation-toolkit). Docs for this fork are published at <https://aeftimia.github.io/model-validation-toolkit/>.
 
 ## Installation
 
